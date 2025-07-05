@@ -1,0 +1,29 @@
+body { 
+    background-color: rgb(178, 239, 178);
+    text-align:center; 
+    color: darkgreen; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+img {
+    border-radius: 20px;
+   width: 90%;
+  height: auto;
+ border: 10px solid;
+ padding: 15px;
+ border-color: darkgreen;
+ border-style: double; 
+}
+
+a {
+    color: darkgreen;
+     cursor: pointer;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h3 {
+     text-decoration: underline;
+}
